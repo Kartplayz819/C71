@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconScreen</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="viewIconScreen" fill="#948FFE">
+            <g id="screen" transform="translate(5.000000, 1.000000)">
+                <path d="M12,5 L2,5 L2,16 L12,16 L12,5 Z M12,3 L12,2 L2,2 L2,3 L12,3 Z M12,18 L2,18 L2,20 L12,20 L12,18 Z M1,0 L13,0 C13.5522847,-1.01453063e-16 14,0.44771525 14,1 L14,21 C14,21.5522847 13.5522847,22 13,22 L1,22 C0.44771525,22 6.76353751e-17,21.5522847 0,21 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

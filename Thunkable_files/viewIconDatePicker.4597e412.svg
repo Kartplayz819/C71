@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>viewIconDatePicker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="viewIconDatePicker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,4 L21,4 C21.5522847,4 22,4.44771525 22,5 L22,19 C22,19.5522847 21.5522847,20 21,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,5 C2,4.44771525 2.44771525,4 3,4 L5,4 L5,6 L9,6 L9,4 L15,4 L15,6 L19,6 L19,4 Z M4,8 L4,18 L20,18 L20,8 L4,8 Z" id="Combined-Shape" fill="#948FFE"></path>
+        <rect id="Rectangle" fill="#948FFE" x="6" y="3" width="2" height="2"></rect>
+        <rect id="Rectangle" fill="#948FFE" x="16" y="3" width="2" height="2"></rect>
+        <polygon id="Fill-2" fill="#948FFE" points="6 16 8 16 8 14 6 14"></polygon>
+        <polygon id="Fill-2" fill="#948FFE" points="11 16 13 16 13 14 11 14"></polygon>
+        <polygon id="Fill-2" fill="#948FFE" points="16 16 18 16 18 14 16 14"></polygon>
+        <polygon id="Fill-6" fill="#948FFE" points="11 12 13 12 13 10 11 10"></polygon>
+        <polygon id="Fill-7" fill="#948FFE" points="16 12 18 12 18 10 16 10"></polygon>
+        <polygon id="Fill-1" fill="#948FFE" points="6 12 8 12 8 10 6 10"></polygon>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconSwitch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="viewIconSwitch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8.5,6 L15.5,6 C19.0898509,6 22,8.91014913 22,12.5 C22,16.0898509 19.0898509,19 15.5,19 L8.5,19 C4.91014913,19 2,16.0898509 2,12.5 C2,8.91014913 4.91014913,6 8.5,6 Z M8.5,8 C6.01471863,8 4,10.0147186 4,12.5 C4,14.9852814 6.01471863,17 8.5,17 L15.5,17 C17.9852814,17 20,14.9852814 20,12.5 C20,10.0147186 17.9852814,8 15.5,8 L8.5,8 Z" id="Combined-Shape" fill="#948FFE"></path>
+        <path d="M15.5,16 C13.5670034,16 12,14.4329966 12,12.5 C12,10.5670034 13.5670034,9 15.5,9 C17.4329966,9 19,10.5670034 19,12.5 C19,14.4329966 17.4329966,16 15.5,16 Z M15.5,14 C16.3284271,14 17,13.3284271 17,12.5 C17,11.6715729 16.3284271,11 15.5,11 C14.6715729,11 14,11.6715729 14,12.5 C14,13.3284271 14.6715729,14 15.5,14 Z" id="Combined-Shape" fill="#948FFE"></path>
+    </g>
+</svg>

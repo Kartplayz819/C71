@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="currentColor" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconLabel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="viewIconLabel" fill="#948FFE">
+            <path d="M2,8.00276013 C2,6.89666625 2.89821238,6 3.99079514,6 L20.0092049,6 C21.1086907,6 22,6.89354265 22,8.00276013 L22,16.9972399 C22,18.1033337 21.1017876,19 20.0092049,19 L3.99079514,19 C2.89130934,19 2,18.1064574 2,16.9972399 L2,8.00276013 Z M4,8 L4,17 L20,17 L20,8 L4,8 Z M16.5,15 C15.1226667,15 14,13.8773333 14,12.5 C14,11.1226667 15.1226667,10 16.5,10 C17.878,10 19,11.1226667 19,12.5 C19,13.8773333 17.878,15 16.5,15 Z M16.4997333,12 C16.2237333,12 16,12.224 16,12.5 C16,12.776 16.2237333,13 16.4997333,13 C16.776,13 17,12.776 17,12.5 C17,12.224 16.776,12 16.4997333,12 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconCamera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="viewIconCamera">
+            <g id="Group" transform="translate(1.000000, 2.000000)"></g>
+            <path d="M7,4 L3.36614941,4 C2.15614941,4 1,5.14857143 1,6.34285714 L1,18.8269845 C1,20.0212702 1.99,20.9984131 3.2,20.9984131 L20.8,20.9984131 C22.01,20.9984131 23,20.0212702 23,18.8269845 L23,6.34285714 C23,5.14857143 22.1761494,4 20.9661494,4 L17,4 L15,2 L9,2 L7,4 Z M7.95629883,6 L9.54545455,4 L14.4545455,4 L16.0909091,6.02690287 L21,6 L21,19 L3,19 L3,6.02690287 L7.95629883,6 Z M12,17 C14.76,17 17,14.76 17,12 C17,9.24 14.76,7 12,7 C9.24,7 7,9.24 7,12 C7,14.76 9.24,17 12,17 Z M12,15 C10.3431458,15 9,13.6568542 9,12 C9,10.3431458 10.3431458,9 12,9 C13.6568542,9 15,10.3431458 15,12 C15,13.6568542 13.6568542,15 12,15 Z" id="Shape" fill="#948FFE"></path>
+        </g>
+    </g>
+</svg>

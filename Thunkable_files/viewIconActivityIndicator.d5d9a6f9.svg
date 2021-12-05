@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconActivityIndicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 C15.5228475,0 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 Z M10,18 C14.418278,18 18,14.418278 18,10 C18,5.581722 14.418278,2 10,2 C5.581722,2 2,5.581722 2,10 C2,14.418278 5.581722,18 10,18 Z" id="path-1"></path>
+    </defs>
+    <g id="viewIconActivityIndicator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,22 C6.4771525,22 2,17.5228475 2,12 C2,6.4771525 6.4771525,2 12,2 C17.5228475,2 22,6.4771525 22,12 C22,17.5228475 17.5228475,22 12,22 Z M12,20 C16.418278,20 20,16.418278 20,12 C20,7.581722 16.418278,4 12,4 C7.581722,4 4,7.581722 4,12 C4,16.418278 7.581722,20 12,20 Z" id="Combined-Shape" fill="#D8D8D8" fill-rule="nonzero"></path>
+        <g id="Rectangle" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D7D5FF" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <polygon fill="#948FFE" fill-rule="nonzero" mask="url(#mask-2)" points="-2.23046875 14.1220703 0.543879258 13.1871818 1.49664463 12.8661228 2.42748795 12.552451 9.99519506 10.0023159 10.0520024 -1.97025903 22.1091366 -2.03079149 22 22 -2 22"></polygon>
+            <path d="M1.47888184,13.9124146 C2.03116659,13.9124146 2.47888184,13.4646993 2.47888184,12.9124146 C2.47888184,12.3601298 2.03116659,11.9124146 1.47888184,11.9124146 C0.926597086,11.9124146 0.478881836,12.3601298 0.478881836,12.9124146 C0.478881836,13.4646993 0.926597086,13.9124146 1.47888184,13.9124146 Z" id="Oval" fill="#948FFE" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            <circle id="Oval" fill="#948FFE" fill-rule="nonzero" mask="url(#mask-2)" cx="10" cy="1" r="1"></circle>
+        </g>
+    </g>
+</svg>

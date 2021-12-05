@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconTable</title>
+    <desc>Created with Sketch.</desc>
+    <g id="viewIconTable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#948FFE" fill-rule="nonzero" transform="translate(6.000000, 13.500000) rotate(90.000000) translate(-6.000000, -13.500000) " x="-2.5" y="12.5" width="17" height="2"></rect>
+        <rect id="Rectangle" fill="#948FFE" fill-rule="nonzero" transform="translate(14.000000, 13.500000) rotate(90.000000) translate(-14.000000, -13.500000) " x="5.5" y="12.5" width="17" height="2"></rect>
+        <rect id="Rectangle" fill="#948FFE" fill-rule="nonzero" x="2" y="10" width="20" height="2"></rect>
+        <rect id="Rectangle" fill="#948FFE" fill-rule="nonzero" x="2" y="15" width="20" height="2"></rect>
+        <path d="M2,3 L22,3 C22.5522847,3 23,3.44771525 23,4 L23,21 C23,21.5522847 22.5522847,22 22,22 L2,22 C1.44771525,22 1,21.5522847 1,21 L1,4 C1,3.44771525 1.44771525,3 2,3 Z M3,7 L3,20 L21,20 L21,7 L3,7 Z" id="Combined-Shape" fill="#948FFE" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconDialogflow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.1251748,4.32427624 L9.72629371,0.201403315 C9.24630422,-0.0670634355 8.65425522,-0.0670634355 8.17426573,0.201403315 L0.774125874,4.32427624 C0.294948425,4.59344033 0.000109829233,5.08831425 1.0658141e-14,5.62361326 L1.0658141e-14,13.8754365 C0.000422748223,14.4096998 0.295357322,14.9033455 0.774125874,15.1711271 L4.47608392,17.2374254 L4.47608392,21.4502431 C4.47672477,21.6106034 4.56574637,21.7585019 4.70972798,21.8384139 C4.85370959,21.918326 5.03086473,21.9181599 5.17468531,21.8379779 L17.1327273,15.1747735 C17.6120654,14.9075413 17.907208,14.4135473 17.9068531,13.8790829 L17.9068531,5.62239779 C17.9039614,5.08623464 17.6063054,4.59192178 17.1251748,4.32427624 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="viewIconDialogflow">
+            <g id="Clipped" transform="translate(3.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Shape"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(0.000000, -0.243094)">
+                        <polygon id="Shape" fill="#EF6C00" fill-rule="nonzero" points="17.8993007 5.00250829 8.95216783 9.99201105 -1.42108547e-14 5.00250829 -1.42108547e-14 14.9815138 4.47608392 17.474442 4.47608392 22.4651602 17.8993007 14.9815138"></polygon>
+                        <g id="Group" stroke-width="1" fill="none" fill-rule="evenodd">
+                            <polygon id="Shape" fill="#FF9800" fill-rule="nonzero" points="8.95216783 9.99201105 0 5.00250829 8.95216783 0.0130055249 17.8993007 5.00250829"></polygon>
+                            <polygon id="Shape" fill="#FF9800" fill-rule="nonzero" points="8.79356643 9.84007735 0.0566433566 4.96969061 2.66453526e-15 5.00250829 8.95216783 9.99201105 17.8993007 5.00250829 17.6890909 4.8821768"></polygon>
+                            <polygon id="Shape" fill="#FF9800" fill-rule="nonzero" points="8.95216783 10.054 8.95216783 9.99201105 0.0566433566 5.03167956 2.66453526e-15 5.06449724"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

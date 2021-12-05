@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>viewIconBluetooth</title>
+    <desc>Created with Sketch.</desc>
+    <g id="viewIconBluetooth" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="outline-bluetooth-24px">
+            <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M17.0020696,7.00206957 L12,2 L11,2 L11,9.59 L6.41,5 L5,6.41 L10.59,12 L5,17.59 L6.41,19 L11,14.41 L11,22 L12,22 L17.0020696,16.9979304 C17.3925939,16.6074061 17.3925939,15.9742412 17.0020696,15.5837169 C17.0017952,15.5834425 17.0015206,15.5831682 17.0012459,15.5828942 L13.41,12 L17.0012459,8.41710582 C17.3922246,8.02703642 17.3929617,7.39387187 17.0028923,7.00289322 C17.0026182,7.00261851 17.002344,7.00234396 17.0020696,7.00206957 Z M13,5.83 L14.88,7.71 L13,9.59 L13,5.83 Z M14.88,16.29 L13,18.17 L13,14.41 L14.88,16.29 L14.88,16.29 Z" id="Shape" fill="#948FFE" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

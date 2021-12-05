@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconNotifier</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="viewIconNotifier" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,5 L21,5 C21.5522847,5 22,5.44771525 22,6 L22,18 C22,18.5522847 21.5522847,19 21,19 L3,19 C2.44771525,19 2,18.5522847 2,18 L2,6 C2,5.44771525 2.44771525,5 3,5 Z M4,7 L4,17 L20,17 L20,7 L4,7 Z M15,14 L19,14 L19,16 L15,16 L15,14 Z M10,14 L14,14 L14,16 L10,16 L10,14 Z M5,8 L19,8 L19,10 L5,10 L5,8 Z M5,11 L19,11 L19,13 L5,13 L5,11 Z" id="Combined-Shape" fill="#948FFE"></path>
+    </g>
+</svg>
